@@ -15,8 +15,8 @@
 
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/PandaTechAM/be-lib-pandatech-crypto</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/PandaTechAM/be-lib-pandatech-crypto</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/PandaTechAM/be-lib-crypto</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/PandaTechAM/be-lib-crypto</PackageProjectUrl>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
 
     <PackageIcon>pandatech.png</PackageIcon>
